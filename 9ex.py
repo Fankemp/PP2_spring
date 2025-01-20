@@ -1,0 +1,10 @@
+age = 36
+txt = f"My name is John, I am {age}"
+print(txt)
+
+a = "Hello, World!"
+print(a.upper())
+
+for x in "banana":
+  print(x)
+
